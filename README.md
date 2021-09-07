@@ -14,7 +14,7 @@ This application detect when your app is using excessive memory, and bring memor
 
 To run the app, kindly follow the below steps: 
 
-1. Simply clone or fork the ** MemorySimulator** repository. 
+1. Simply clone or fork the **MemorySimulator** repository. 
 
 2. After cloning the repository, open the app in Xcode. 
 
