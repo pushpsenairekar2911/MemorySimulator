@@ -5,7 +5,7 @@
 This application detect when your app is using excessive memory, and bring memory use under control.
 
 
-<img align="left" src="https://github.com/pushpsenairekar2911/NewsAPI/blob/main/Assets/Screenshots/1.jpg">
+<img align="left" src="https://github.com/pushpsenairekar2911/MemorySimulator/blob/main/Screenshots/1.jpg">
 
 
 
